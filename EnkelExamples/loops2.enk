@@ -1,0 +1,12 @@
+Loops {
+    start() {
+        print "incrementing1 from 1 to 10"
+        for x from 1 to 15 {
+            print x
+        }
+        print "decrementing1 from 10 to 1"
+        for x from 15 to 1 {
+            print x
+        }
+    }
+}
